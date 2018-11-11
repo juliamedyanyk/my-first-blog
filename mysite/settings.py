@@ -25,7 +25,7 @@ SECRET_KEY = 'ms-k4@8=@y9%w(6(i(f9^p19*^by2hz2_e77ccy+uz0$7l9w@r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['medyanykjulia.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
